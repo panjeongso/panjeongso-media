@@ -1,1 +1,1 @@
-# pangeongso-media
+# panjeongso-media
